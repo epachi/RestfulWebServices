@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rest-with-spring.iml" filepath="$PROJECT_DIR$/rest-with-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/rest-with-spring-common.iml" filepath="$PROJECT_DIR$/common/rest-with-spring-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory/rest-with-spring-inventory.iml" filepath="$PROJECT_DIR$/inventory/rest-with-spring-inventory.iml" />
+    </modules>
+  </component>
+</project>
